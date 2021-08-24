@@ -29,9 +29,9 @@ namespace Prg522_Formative2.Controllers
         
                 public ActionResult Welcome()
         {
-            ViewBag.Message = "Welcome";
+            ViewBag.Message = "Welcome"
 
-            return View();
+            return View()
         }
     }
 }
